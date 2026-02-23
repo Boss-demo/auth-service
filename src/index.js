@@ -1,1 +1,1 @@
-console.log("auth-service running");// patch fix
+console.log("auth-service    running");
