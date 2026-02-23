@@ -1,0 +1,24 @@
+{
+  "name": "auth-service",
+  "version": "0.0.0",
+  "description": "Auth Service handles user authentication, authorization, and security management.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boss-demo/auth-service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Boss-demo/auth-service/issues"
+  },
+  "homepage": "https://github.com/Boss-demo/auth-service#readme",
+  "devDependencies": {
+    "semantic-release": "^25.0.3"
+  }
+}
