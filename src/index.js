@@ -5,3 +5,6 @@ console.log("Not working major now trying minor ");
 console.log("Again trying major update");
 
 console.log("tier tagging test --> By ALK");
+console.log("Again trying minor update");
+
+console.log("tier tagging test --> By ALK");
